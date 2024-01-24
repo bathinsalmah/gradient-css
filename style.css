@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background: rgb(242,244,16);
+    background: radial-gradient(circle, rgba(242,244,16,1) 13%, rgba(229,4,217,1) 65%, rgba(128,10,143,1) 100%);
+}
